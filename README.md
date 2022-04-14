@@ -3,4 +3,4 @@ A repository to save and share all my dots files
 
 
 # Suggestions
-All suggestions are welcome !
+Any suggestions are welcome !
